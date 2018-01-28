@@ -8,11 +8,14 @@
     android:gravity="center"
     tools:context="com.cn.codyfjm.circleimageviewdemo.MainActivity">
 
-    <CircleImageView
+    <com.cn.codyfjm.circleimageviewdemo.CircleImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_marginTop="10dp" />
 
-
-
+    <com.cn.codyfjm.circleimageviewdemo.CircleImageViewPlus
+        android:layout_marginTop="20dp"
+        android:id="@+id/logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
 </LinearLayout>

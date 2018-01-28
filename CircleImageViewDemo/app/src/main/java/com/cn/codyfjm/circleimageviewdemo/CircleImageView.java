@@ -1,3 +1,5 @@
+package com.cn.codyfjm.circleimageviewdemo;
+
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Bitmap;
